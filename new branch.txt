@@ -1,0 +1,5 @@
+This is a test file
+This is line 2
+THis is line 3
+THis is a confilct line 1
+THis is conflict line 2
